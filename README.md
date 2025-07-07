@@ -4,4 +4,4 @@
 
 ### Список тем (посилання)
 
-1. [Git та GitHub](https://github.com/panteleimonov/dev-notes/blob/main/Git_GitHub.md)
+1. [Git + GitHub](https://github.com/panteleimonov/dev-notes/blob/main/Git_GitHub.md)
